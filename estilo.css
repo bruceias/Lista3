@@ -1,0 +1,44 @@
+h1{ 
+color:#99cc00; 
+font-family:arial;
+font-size:16px;
+margin-bottom:15px;
+}
+
+
+p.titulo{
+	font-size:70;
+	color:5F9F9F;
+	text-align:center;
+	font-family:long island;
+	margin-bottom:0px;
+}
+
+p.nome{
+	font-size:50;
+	color:grey;
+	text-align:center;
+	font-family:long island;
+	margin-bottom:0px;
+}
+	
+img.iasmyn{
+    width:200px;
+    height:350px;
+    position:absolute;
+    top:10%;
+    left:90%;
+    margin-top:-50px;
+    margin-left:-50px;
+}
+
+p.bloco{
+	margin-left:500px;
+	background-color: grey;
+	text-align:center;
+	color: white;
+	font-family:long island;
+	font-size:20;
+	width:40em;
+	margin-bottom:70px;
+}
